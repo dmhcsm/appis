@@ -1,0 +1,343 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"input	Tag"
+			],
+			[
+				"c",
+				"choiceidselected"
+			],
+			[
+				"ch",
+				"choiceid"
+			],
+			[
+				"event",
+				"event"
+			],
+			[
+				"choic",
+				"choiceidselected"
+			],
+			[
+				"co",
+				"choiceidsession"
+			],
+			[
+				"choiceidse",
+				"choiceidsession"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"ti",
+				"title	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 2083,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 275,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/competition/mynodejs/bookstore/package-lock.json",
+		"/home/competition/Desktop/all-meteor/METEOR-CHAT-CODE/UPDATES-in-movie.txt",
+		"/home/competition/Desktop/all-meteor/METEOR-CHAT-CODE/errors-in-movie.txt",
+		"/home/competition/Desktop/all-meteor/METEOR-CHAT-CODE/error-in-movie.txt",
+		"/home/competition/Desktop/chat-all-steps/5/chat.js",
+		"/home/competition/Desktop/chat-all-steps/5/chat.html",
+		"/home/competition/Desktop/chat-all-steps/4/chat.html",
+		"/home/competition/Desktop/chat-all-steps/4/chat.js",
+		"/home/competition/Desktop/chat-all-steps/3/chat.js",
+		"/home/competition/Desktop/chat-all-steps/3/chat.html",
+		"/home/competition/Desktop/chat-all-steps/2/chat.html",
+		"/home/competition/Desktop/chat-all-steps/2/chat.js",
+		"/home/competition/Desktop/chat-all-steps/1/chat.js",
+		"/home/competition/Desktop/chat-all-steps/1/chat.html",
+		"/home/competition/quiz/client/quiz/quiz-edit/quiz-edit.html",
+		"/home/competition/Desktop/meteor-quiz-viktorina-master/client/lib/app.js",
+		"/home/competition/Desktop/meteor-quiz-viktorina-master/model/quiz.js",
+		"/home/competition/Desktop/meteor-quiz-viktorina-master/server/quizzes.js",
+		"/home/competition/Desktop/meteor-quiz-viktorina-master/server/app.js",
+		"/home/competition/questionnaire/questionnaire.html",
+		"/home/competition/questionnaire/questionnaire.js",
+		"/home/competition/questionnaire/questionnaire.css",
+		"/home/competition/questionnaire/public/mycss.css",
+		"/home/competition/questionnaire/public/jquery.mobile-1.4.3.min.css",
+		"/home/competition/login2/login.js",
+		"/home/competition/login2/login.html",
+		"/home/competition/login/login.html",
+		"/home/competition/login/collections.js",
+		"/home/competition/login/login.js",
+		"/home/competition/Desktop/devchoice-june-27/choice.js",
+		"/home/competition/devmeteor/dev4image/server/startup.js",
+		"/home/competition/login/collections.j",
+		"/home/competition/login/collection.j",
+		"/home/competition/devmeteor/devchoice/choice.css",
+		"/home/competition/devmeteor/devchoice/collections.js",
+		"/home/competition/devmeteor/devchoice/choice.js",
+		"/home/competition/devmeteor/devchoice/choice.html",
+		"/home/competition/devmeteor/devchoice/public/choice-2-form.html",
+		"/home/competition/devhouseSitter2/client/templates.html",
+		"/home/competition/devhouseSitter2/client/client.js",
+		"/home/competition/devhouseSitter2/client/style.css",
+		"/home/competition/devhouseSitter2/collections/houses.js",
+		"/home/competition/devhouseSitter2/server/server.js",
+		"/home/competition/devptatodo/collection/tasks.js",
+		"/home/competition/devptatodo/server/server.js",
+		"/home/competition/devptatodo/client/client.js",
+		"/home/competition/devptatodo/client/templates.html",
+		"/home/competition/Desktop/ch04-workingwithdata-master/devhouseSitter/client/client.js",
+		"/home/competition/devptatodo/client/main.css",
+		"/home/competition/devptatodo/client/main.html",
+		"/home/competition/devptatodo/client/main.js",
+		"/home/competition/devptatodo/server/main.js",
+		"/home/competition/Desktop/ch04-workingwithdata-master/devhouseSitter/server/server.js",
+		"/home/competition/Desktop/ch04-workingwithdata-master/devhouseSitter/collections/houses.js",
+		"/home/competition/Desktop/ch04-workingwithdata-master/devhouseSitter/client/templates.html",
+		"/home/competition/Desktop/ch04-workingwithdata-master/devhouseSitter/client/style.css",
+		"/home/competition/Desktop/conFusion/css/mystyle.css",
+		"/home/competition/Desktop/conFusion/aboutus.html",
+		"/home/competition/Desktop/conFusion/index.html",
+		"/home/competition/Desktop/conFusion/index0.html",
+		"/home/competition/dev4image/client/main.js",
+		"/home/competition/devimagestart/command-meteor.txt",
+		"/home/competition/devimage/image_share-me.html",
+		"/home/competition/devimage/image_share.js",
+		"/home/competition/devimage/image_share.html",
+		"/home/competition/devimagestart/image_share.html",
+		"/home/competition/devimagestart/image_share.js"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2083,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								215,
+								215
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 275,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18,
+								18
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
